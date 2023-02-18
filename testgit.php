@@ -15,6 +15,9 @@
         $name = "Jay 2 nabago";
         echo $name;
 
+        $age = 4;
+        echo $age;
+
     ?>
 </body>
 </html>
