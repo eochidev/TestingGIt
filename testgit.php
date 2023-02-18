@@ -18,6 +18,14 @@
         $age = 23;
         echo $age;
 
+        $sex = male;
+        echo $age;
+
+        $course = 'BSIT';
+        echo $course;
+
+        $test = 'test';
+        echo $test;
     ?>
 </body>
 </html>
