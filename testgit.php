@@ -15,7 +15,7 @@
         $name = "Jay 2 nabago";
         echo $name;
 
-        $age = 4;
+        $age = 23;
         echo $age;
 
     ?>
