@@ -8,8 +8,11 @@
 </head>
 <body>
     <?php 
-
+//testing
         $name = "Jay";
+        echo $name;
+
+        $name = "Jay 2";
         echo $name;
 
     ?>
