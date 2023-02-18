@@ -7,6 +7,11 @@
     <title>TESTING GIT</title>
 </head>
 <body>
-    
+    <?php 
+
+        $name = "Jay";
+        echo $name;
+
+    ?>
 </body>
 </html>
